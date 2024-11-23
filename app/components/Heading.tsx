@@ -1,4 +1,4 @@
-// import { Interface } from 'node:readline/promises'
+
 import React from 'react'
 
 interface propsType{
